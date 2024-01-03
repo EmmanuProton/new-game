@@ -1,7 +1,7 @@
 <!--
 &lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
-emmanu-proton/cb_game is built on the following main stack:
+EmmanuProton/new-game is built on the following main stack:
 
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [RSpec](https://rspec.info/) – Testing Frameworks
@@ -12,7 +12,7 @@ Full tech stack [here](/techstack.md)
 
 &lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
-emmanu-proton/cb_game is built on the following main stack:
+EmmanuProton/new-game is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
@@ -24,9 +24,9 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
-![](https://img.stackshare.io/repo.svg "repo") [emmanu-proton/cb_game](https://github.com/emmanu-proton/cb_game)![](https://img.stackshare.io/public_badge.svg "public")
+![](https://img.stackshare.io/repo.svg "repo") [EmmanuProton/new-game](https://github.com/EmmanuProton/new-game)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/02/24 <br/>Report generated|
+|4<br/>Tools used|01/03/24 <br/>Report generated|
 |------|------|
 </div>
 
