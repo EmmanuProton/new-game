@@ -1,8 +1,8 @@
-repo_name: emmanu-proton/cb_game
-report_id: d2db1e7362ba5a4196d09cf99485b10f
+repo_name: EmmanuProton/new-game
+report_id: a65c0e75b8915e89ce31904d4b9be588
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T19:57:56+00:00'
+timestamp: '2024-01-03T21:46:13+00:00'
 requested_by: emmanu-bacancy
 provider: github
 branch: master
@@ -37,7 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2539/logo.png
-  detection_source_url: https://github.com/emmanu-proton/cb_game/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/EmmanuProton/new-game/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: emmanu-bacancy
   last_updated_on: 2023-04-26 11:19:31.000000000 Z
