@@ -1,8 +1,8 @@
 repo_name: EmmanuProton/new-game
-report_id: a65c0e75b8915e89ce31904d4b9be588
+report_id: e9ca10d245a586530891ac2989061eea
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:11:05+00:00'
+timestamp: '2024-01-09T17:50:24+00:00'
 requested_by: emmanu-bacancy
 provider: github
 branch: master
@@ -12,17 +12,17 @@ tools:
   description: A dynamic, interpreted, open source programming language with a focus
     on simplicity and productivity
   website_url: https://www.ruby-lang.org
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  image_url: https://img.stackshare.io/service/989/ruby.png
+  image_url: https://ucarecdn.com/f37f9014-cba7-466b-a4ce-5cb9584ba991/-/crop/542x541/758,869/-/preview/
   detection_source_url: https://github.com/EmmanuProton/new-game
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
@@ -34,7 +34,7 @@ tools:
   website_url: https://rspec.info/
   version: 3.12.0
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
